@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E7B40545-7F4F-9192-BA32-8A4F1B3C1351}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/_CombatScripts/AttackProperties.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/_CameraScripts/CameraFollowS.cs" Line="48" Column="1" />
+      <File FileName="Assets/__Scripts/__PlayerScripts/PlayerController.cs" Line="147" Column="47" />
+      <File FileName="Assets/__Scripts/_CombatScripts/Hitbox.cs" Line="10" Column="17" />
+      <File FileName="Assets/__Scripts/_CombatScripts/AttackProperties.cs" Line="13" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
